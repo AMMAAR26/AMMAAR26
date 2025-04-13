@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" alt="Snake animation" />
-
 ###
